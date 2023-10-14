@@ -1,0 +1,8 @@
+ipykernel
+ipython
+jupyter-client
+numpy
+openai
+python-dotenv
+pillow
+matplotlib
