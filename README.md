@@ -42,7 +42,7 @@ If you find this work useful, please consider citing:
       title={Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning}, 
       author={Dhruv Shah and Michael Equi and Blazej Osinski and Fei Xia and Brian Ichter and Sergey Levine},
       year={2023},
-      eprint={TODO},
+      eprint={2310.10103},
       archivePrefix={arXiv},
       primaryClass={cs.RO}
 }
